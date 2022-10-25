@@ -1,0 +1,10 @@
+
+Jay Iron & Steels Ltd.                                                 
+Odisha                                                                                                                                         
+India                                                                  
+    2    2
+  1  122PM            mg/Nm3    analyzer_690      1000  0     
+ 3058              CEMS_1 22.205922  22.205922          
+  101SO2           mg/Nm3    analyzer_353      2000  0     
+ 3058              CEMS_1 22.205922  22.205922          
+011

@@ -1,0 +1,22 @@
+{
+  "industry_details": {
+    "INDUSTRY_NAME": "Jay Iron & Steels Ltd.",
+    "INDUSTRY_ADDR_LINE1": "Odisha",
+    "INDUSTRY_ADDR_LINE2": "",
+    "INDUSTRY_COUNTRY": "India",
+    "SITE_CODE": "3058",
+    "DATA_QUALITY_FLAG": "U",
+    "TIMEZONE_CODE": "Z",
+    "NO_OF_STATIONS": "1"
+  },
+  "server_details": { "host": "connect.stage.datoms.io", "port": 48755 },
+  "parameter_details": [
+    { "name": "so2", "ch_no": 1 },
+    { "name": "co2", "ch_no": 2 },
+    { "name": "po2", "ch_no": 3 },
+    { "name": "ao2", "ch_no": 4 },
+    { "name": "ro2", "ch_no": 5 },
+    { "name": "wo2", "ch_no": 6 }
+  ],
+  "authentication_token": "s44VPASwNq2j807oRkuP4NfX1UNWMiM2iMBtQ2cQ6YfYsYLJo4LeEmi8oSoBkL3H"
+}

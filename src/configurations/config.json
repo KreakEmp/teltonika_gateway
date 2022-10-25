@@ -1,0 +1,19 @@
+{
+  "industry_details": {
+    "INDUSTRY_NAME": "Jay Iron & Steels Ltd.",
+    "INDUSTRY_ADDR_LINE1": "Odisha",
+    "INDUSTRY_ADDR_LINE2": "",
+    "INDUSTRY_COUNTRY": "India",
+    "SITE_CODE": "3058",
+    "DATA_QUALITY_FLAG": "U",
+    "TIMEZONE_CODE": "Z",
+    "NO_OF_STATIONS": "1",
+    "NO_OF_PARAMETERS": "2"
+  },
+  "server_details": { "host": "connect.stage.datoms.io", "port": 48755 },
+  "parameter_details": [{"config_ty":"p_dt","p_n":"1","sy_n":"1","p_type":"0","p_name":"PM","s_offset":"0","s_multiplier":"1","pkt_start_id":"M000","pkt_end_id":"g\/m3","param_id":"PM","deli_cnt":"9","sta_ch_pos":"0","sto_ch_pos":"0","range_filter":"1","handle_garb":"2","handle_no_data":"1","recv_unit":"mg\/Nm3","offset":"0","multiplier":"1","min_range":"0","max_range":"1000","channel":"0","s_in_min":"4","s_in_max":"20"},{"config_ty":"p_dt","p_n":"2","sy_n":"1","p_type":"0","p_name":"SO2","s_offset":"0","s_multiplier":"1","pkt_start_id":"M000","pkt_end_id":"g\/m3","param_id":"SO2","deli_cnt":"9","sta_ch_pos":"0","sto_ch_pos":"0","range_filter":"1","handle_garb":"2","handle_no_data":"1","recv_unit":"mg\/Nm3","offset":"0","multiplier":"1","min_range":"0","max_range":"2000","channel":"1"}],
+  "measurement_method": [{"analyzer_param_name":"DATOMS_ISO_PARAM_PM","analyzer_id":"analyzer_690"}, {"analyzer_param_name":"DATOMS_ISO_PARAM_SO2","analyzer_id":"analyzer_353"}],
+  "site_details" : [{"station_id":"22", "station_name":"CEMS_1", "latitude":"22.205922", "longitude":"22.205922", "altitude": "", "scale":""}],
+  "authentication_token": "s44VPASwNq2j807oRkuP4NfX1UNWMiM2iMBtQ2cQ6YfYsYLJo4LeEmi8oSoBkL3H",
+  "keys":{"publicKey": "MEgCQQCcADcRmHrTtDWsknzx5D64iNdwYscWi0+fI8nh9cO26HtRSeXBnSJuMlJK\nis7qn+lznsbi3DRwYOdM4w/7Z8bhAgMBAAE=", "privateKey":"-----BEGIN RSA PRIVATE KEY-----\n MIIBPQIBAAJBAKgybg3vQLQFkxgWvvsatXjPjlwVLzJpCfPKHYrGEfKy/Jk5hsaN\n/lhGYPOiLaYiV2EZ7vnEAjr+AImV83WOpZECAwEAAQJBAICh+MsNZBWJgeJVWv/d\n gFYBnmVMCklqTaM1uvwr2E22NeopdkIfdOV67yOl7RC9QF4yGSuIHbx3zTNf0tp6\nWUUCIwDugM+oKDvGXNAfqG1ZJu/SOOrsX8n6NWlR51aMolhSCyXPAh8AtIk9TSZe\n/IgcNcOFnsuehUNlTgpdD1In/lihb7afAiMAt9Peujxwfh6xZ4U46vtA42ZtY80c\n71ZVnARTyEelDW98LwIeSAAH07H+5eX+oi6FJsx8Pxee2l3luUuBqb19PMlvAiJ7\nY5p6mQ/xIg20hEZ3mQpU1/WCdLj5Xfx1HN51g/bF7jzU\n-----END RSA PRIVATE KEY-----\n"}
+}

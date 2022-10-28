@@ -1,0 +1,7 @@
+{
+    "s_dt":{"s_n":1, "no_p":2, "timeout": 3000, "hw_type":"serial", "serial_no": "COM9", "baud_rate":"9600"},
+    "p_dt":[
+        {"p_n":1, "p_na":"so2", "p_ch":0, "p_ll":"0","p_ul":"2000"},
+        {"p_n":2, "p_na":"nox", "p_ch":1, "p_ll":"0","p_ul":"2000"}
+    ]
+}
